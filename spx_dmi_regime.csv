@@ -1,4 +1,4 @@
-Date,Close,VIX,dmi_plus,dmi_minus,adx,trend_score,div_z,iv_signal,global_score,regime
+Date,close,VIX,dmi_plus,dmi_minus,adx,trend_score,div_z,iv_signal,global_score,regime
 2010-01-04,1132.989990234375,20.040000915527344,0.0,0.0,0.0,0,,0,0,RANGE (BEST FOR COMBO)
 2010-01-05,1136.52001953125,19.350000381469727,0.0,0.0,0.0,0,,0,0,RANGE (BEST FOR COMBO)
 2010-01-06,1137.1400146484375,19.15999984741211,0.0,0.0,0.0,0,,0,0,RANGE (BEST FOR COMBO)
